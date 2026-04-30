@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://github.com/jaymore4501/banner.png" width="100%" alt="Jay More Banner">
-  
-  <br/><br/>
   
   <img src="https://github.com/jaymore4501.png" width="150" style="border-radius: 50%; border: 3px solid #38bdf8;" alt="Jay More Profile">
   
