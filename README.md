@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jaymore4501/jaymore4501/main/profile-pic" width="100%" alt="Jay More">
+  <img src="https://raw.githubusercontent.com/jaymore4501/main/profile-pic" width="100%" alt="Jay More">
   
   # 🚀 Hi, I'm Jay More
   ### B.Tech Computer Science @ NMIMS | Full-Stack & AI Systems Developer
