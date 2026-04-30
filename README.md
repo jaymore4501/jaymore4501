@@ -29,6 +29,23 @@ I'm a passionate **Computer Science student** at **NMIMS**, dedicated to craftin
 
 ---
 
+## 📊 Performance & Achievements
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=jaymore4501&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170px" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com/?user=jaymore4501&theme=tokyonight&hide_border=true" height="170px" alt="Streak Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaymore4501&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jaymore4501&theme=tokyonight&hide_border=true&layout=compact" height="165px" alt="Top Languages">
+</div>
+
+---
+
 ## 💻 Tech Universe
 
 ### 🛡️ Languages & Core
@@ -57,22 +74,6 @@ I'm a passionate **Computer Science student** at **NMIMS**, dedicated to craftin
 
 ---
 
-## 📊 Performance & Achievements
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=jaymore4501&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170px" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com/?user=jaymore4501&theme=tokyonight&hide_border=true" height="170px" alt="Streak Stats">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaymore4501&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jaymore4501&theme=tokyonight&hide_border=true&layout=compact" height="165px" alt="Top Languages">
-</div>
-
----
 <div align="center">
 <table width="100%">
   <tr>
