@@ -27,8 +27,7 @@ I'm a passionate **Computer Science student** at **NMIMS**, dedicated to craftin
 - 🌱 Developed **Collabryx**, a professional real-time collaborative whiteboard for high-performance teams.
 - ⚡ Developed an **Intelligent Synthetic Data Generator** to bridge the gap in privacy-focused analytics.
 
-  <a href="https://jaymore4501.github.io/Personal-Portfolio/">🔗 **Portfolio Link** : https://jaymore4501.github.io/Personal-Portfolio/ </a>
-
+  🔗 **Portfolio Link** : https://jaymore4501.github.io/Personal-Portfolio/ 
 
 ---
 
