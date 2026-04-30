@@ -78,7 +78,7 @@ I'm a passionate **Computer Science student** at **NMIMS**, dedicated to craftin
 </div>
 
 ---
-
+<div align="center">
 <table width="100%" cellpadding="10">
   <tr>
     <td width="50%" valign="top">
@@ -111,7 +111,7 @@ I'm a passionate **Computer Science student** at **NMIMS**, dedicated to craftin
     </td>
   </tr>
 </table>
-
+</div>
 ---
 
 <div align="center">
