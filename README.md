@@ -1,19 +1,21 @@
-<div align="center">
-  
-  <img src="https://github.com/jaymore4501.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #38bdf8; object-fit: cover;" alt="Jay More Profile">
-  
-  # 🚀 Jay More
-  ### B.Tech Computer Science @ NMIMS | Full-Stack & AI Systems Developer
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-more-5767a0400/)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaymore4501@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_jay_more/)
-  
-  ---
-  
-  *"Building the future at the intersection of intelligence and design."*
-</div>
-
+<table width="100%">
+  <tr>
+    <td width="200px" align="center" valign="middle">
+      <img src="https://github.com/jaymore4501.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #38bdf8; object-fit: cover;" alt="Jay More Profile">
+    </td>
+    <td valign="top">
+      <h1>🚀 Jay More</h1>
+      <h3>B.Tech Computer Science @ NMIMS | Full-Stack & AI Systems Developer</h3>
+      <p>
+        <a href="https://linkedin.com/in/jay-more-5767a0400/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="mailto:jaymore4501@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+        <a href="https://instagram.com/itz_jay_more/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+      </p>
+      <hr/>
+      <i>"Building the future at the intersection of intelligence and design."</i>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 💫 About Me
