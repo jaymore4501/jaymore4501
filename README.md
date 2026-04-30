@@ -1,9 +1,10 @@
-<table width="100%">
+<table width="100%" cellpadding="10" border="0">
   <tr>
     <td width="200px" align="center" valign="middle">
-      <img src="https://github.com/jaymore4501.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #38bdf8; object-fit: cover;" alt="Jay More Profile">
+      <img src="https://github.com/jaymore4501.png" width="180" height="180" style="border: 4px solid #38bdf8; object-fit: cover;" alt="Jay More Profile">
     </td>
     <td valign="top">
+      <br/>
       <h1>🚀 Jay More</h1>
       <h3>B.Tech Computer Science @ NMIMS | Full-Stack & AI Systems Developer</h3>
       <p>
@@ -16,6 +17,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## 💫 About Me
