@@ -5,16 +5,18 @@
     </td>
     <td valign="top">
       <br/>
+      <pre>
       <h1>🚀 Jay More</h1> 
       <p>
         <a href="https://linkedin.com/in/jay-more-5767a0400/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="mailto:jaymore4501@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
         <a href="https://instagram.com/itz_jay_more/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
       </p>
+      <pre>
       <h3>B.Tech Computer Science @ NMIMS | Full-Stack & AI Systems Developer</h3>
       <i>"Building the future at the intersection of intelligence and design."</i>
       <hr/>
-      🔗 **Portfolio Link** : https://jaymore4501.github.io/Personal-Portfolio/ 
+      <i>🔗 Portfolio Link : https://jaymore4501.github.io/Personal-Portfolio/ </i>
     </td>
   </tr>
 </table>
