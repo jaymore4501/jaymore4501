@@ -16,11 +16,13 @@
       <p align="left">
         ✨ **[ 🎯 DISCOVER MY FULL DIGITAL UNIVERSE & PROJECTS 🚀 ](https://jaymore4501.github.io/Personal-Portfolio/)**
       </p>
+
       <hr/>
       <i>"Building the future at the intersection of intelligence and design."</i>
     </td>
   </tr>
 </table>
+
 
 ---
 
