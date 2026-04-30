@@ -5,15 +5,16 @@
     </td>
     <td valign="top">
       <br/>
-      <h1>🚀 Jay More</h1>
-      <h3>B.Tech Computer Science @ NMIMS | Full-Stack & AI Systems Developer</h3>
+      <h1>🚀 Jay More</h1> 
       <p>
         <a href="https://linkedin.com/in/jay-more-5767a0400/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="mailto:jaymore4501@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
         <a href="https://instagram.com/itz_jay_more/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
       </p>
-      <hr/>
+      <h3>B.Tech Computer Science @ NMIMS | Full-Stack & AI Systems Developer</h3>
       <i>"Building the future at the intersection of intelligence and design."</i>
+      <hr/>
+      🔗 **Portfolio Link** : https://jaymore4501.github.io/Personal-Portfolio/ 
     </td>
   </tr>
 </table>
@@ -26,8 +27,6 @@ I'm a passionate **Computer Science student** at **NMIMS**, dedicated to craftin
 - 🔭 Developed **Nyxecure**, an advanced Cybersecurity SaaS platform for secure enterprise management.
 - 🌱 Developed **Collabryx**, a professional real-time collaborative whiteboard for high-performance teams.
 - ⚡ Developed an **Intelligent Synthetic Data Generator** to bridge the gap in privacy-focused analytics.
-
-  🔗 **Portfolio Link** : https://jaymore4501.github.io/Personal-Portfolio/ 
 
 ---
 
