@@ -1,23 +1,27 @@
-<table width="100%" cellpadding="10" border="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="200px" align="center" valign="middle">
-      <img src="https://github.com/jaymore4501.png" width="180" height="180" style="border: 4px solid #38bdf8; object-fit: cover;" alt="Jay More Profile">
+      <img src="https://github.com/jaymore4501.png" width="250" height="250" style="border: 4px solid #38bdf8; object-fit: cover;" alt="Jay More Profile">
     </td>
     <td valign="top">
       <br/>
-      <h1>🚀 Jay More</h1> 
-      <p>
-        <a href="https://linkedin.com/in/jay-more-5767a0400/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        <a href="mailto:jaymore4501@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-        <a href="https://instagram.com/itz_jay_more/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-      </p>
+      <h1>
+        🚀 Jay More &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://linkedin.com/in/jay-more-5767a0400/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" height="22"></a>
+        <a href="mailto:jaymore4501@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="22"></a>
+        <a href="https://instagram.com/itz_jay_more/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" height="22"></a>
+        <a href="https://github.com/jaymore4501"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" height="22"></a>
+        <a href="https://jaymore4501.github.io/Personal-Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-38bdf8?style=flat-square&logo=google-chrome&logoColor=white" height="22"></a>
+      </h1> 
       <h3>B.Tech Computer Science @ NMIMS | Full-Stack & AI Systems Developer</h3>
       <i>"Building the future at the intersection of intelligence and design."</i>
       <hr/>
-      <i>🔗 Portfolio Link : https://jaymore4501.github.io/Personal-Portfolio/ </i>
+      <i>🔗 Portfolio Link : <b><a href="https://jaymore4501.github.io/Personal-Portfolio/">https://jaymore4501.github.io/Personal-Portfolio/</a></b></i>
     </td>
   </tr>
 </table>
+
+
 
 ---
 
