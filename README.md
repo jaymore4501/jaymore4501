@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jaymore4501/jaymore4501/main/profile_banner_futuristic_1777543629672.png" width="100%" alt="Jay More's Banner">
+  <img src="https://raw.githubusercontent.com/jaymore4501/jaymore4501/main/profile-pic" width="100%" alt="Jay More">
   
   # 🚀 Hi, I'm Jay More
   ### B.Tech Computer Science @ NMIMS | Full-Stack & AI Systems Developer
@@ -70,6 +70,6 @@ I'm a passionate **Computer Science student** at **NMIMS**, dedicated to craftin
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Antigravity</sub><br>
+  <sub>Jay More © 2026</sub><br>
   <img src="https://komarev.com/ghpvc/?username=jaymore4501&icon=0&color=blue" alt="Profile Views">
 </div>
