@@ -28,9 +28,13 @@
 ## 💫 About Me
 I'm a passionate **Computer Science student** at **NMIMS**, dedicated to crafting real-world tech solutions. I thrive on building high-performance **Full-Stack ecosystems** and **AI-powered intelligence**.
 
-- 🔭 Developed **Nyxecure**, an advanced Cybersecurity SaaS platform for secure enterprise management.
-- 🌱 Developed **Collabryx**, a professional real-time collaborative whiteboard for high-performance teams.
-- ⚡ Developed an **Intelligent Synthetic Data Generator** to bridge the gap in privacy-focused analytics.
+- 🤖 Developed **KARA AI**, an autonomous multi-agent startup engine automating project generation and planning. ([GitHub](https://github.com/jaymore4501/KARA))
+- 🧠 Developed **INFENGINE**, an explainable AI decision intelligence platform with simulation playgrounds and risk auditing. ([GitHub](https://github.com/jaymore4501/INFENGINE) | [Live](https://infengine.onrender.com/))
+- 🔍 Developed **RepoGPT**, an AI repository intelligence platform offering AST-level codebase analysis and semantic chat. ([GitHub](https://github.com/jaymore4501/RepoGPT) | [Live](https://repogpt-3azy.onrender.com/))
+- ⚡ Developed **Ventrixa**, an AI website generator converting natural language descriptions into complete, editable codebases. ([GitHub](https://github.com/jaymore4501/Ventrixa) | [Live](https://ventrixa.onrender.com/))
+- 📝 Developed **Notela**, a modern academic workspace with Notion-style editing, task management, and habit tracking. ([GitHub](https://github.com/jaymore4501/Notela) | [Live](https://notela-oldb.onrender.com/))
+- 🌱 Developed **Collabryx**, an anonymous real-time whiteboard for zero-friction team sketching and brainstorming. ([GitHub](https://github.com/jaymore4501/Collabryx) | [Live](https://collabryx-frontend.onrender.com/))
+- 🛡️ Developed **Nyxecure**, a lightweight cybersecurity platform providing phishing URL analysis and password diagnostics. ([GitHub](https://github.com/jaymore4501/Nyxecure) | [Live](https://nyxecure-frontend.onrender.com/))
 
 ---
 
