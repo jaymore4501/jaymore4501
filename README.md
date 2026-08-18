@@ -30,15 +30,15 @@ I'm a passionate **Computer Science student** at **NMIMS**, dedicated to craftin
 
 ### 🚀 Featured Projects
 
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| 🤖 **KARA AI** | Autonomous multi-agent startup engine automating project generation and planning. | [GitHub](https://github.com/jaymore4501/KARA) |
-| 🧠 **INFENGINE** | Explainable AI decision intelligence platform with simulation playgrounds and risk auditing. | [GitHub](https://github.com/jaymore4501/INFENGINE) • [Live](https://infengine.onrender.com/) |
-| 🔍 **RepoGPT** | AI repository intelligence platform offering AST-level codebase analysis and semantic chat. | [GitHub](https://github.com/jaymore4501/RepoGPT) • [Live](https://repogpt-3azy.onrender.com/) |
-| ⚡ **Ventrixa** | AI website generator converting natural language descriptions into complete, editable codebases. | [GitHub](https://github.com/jaymore4501/Ventrixa) • [Live](https://ventrixa.onrender.com/) |
-| 📝 **Notela** | Modern academic workspace with Notion-style editing, task management, and habit tracking. | [GitHub](https://github.com/jaymore4501/Notela) • [Live](https://notela-oldb.onrender.com/) |
-| 🌱 **Collabryx** | Anonymous real-time whiteboard for zero-friction team sketching and brainstorming. | [GitHub](https://github.com/jaymore4501/Collabryx) • [Live](https://collabryx-frontend.onrender.com/) |
-| 🛡️ **Nyxecure** | Lightweight cybersecurity platform providing phishing URL analysis and password diagnostics. | [GitHub](https://github.com/jaymore4501/Nyxecure) • [Live](https://nyxecure-frontend.onrender.com/) |
+| Project | Description | GitHub | Live Demo |
+| :--- | :--- | :--- | :--- |
+| 🤖 **KARA AI** | Autonomous multi-agent startup engine automating project generation and planning. | [GitHub](https://github.com/jaymore4501/KARA) | — |
+| 🧠 **INFENGINE** | Explainable AI decision intelligence platform with simulation playgrounds and risk auditing. | [GitHub](https://github.com/jaymore4501/INFENGINE) | [Live](https://infengine.onrender.com/) |
+| 🔍 **RepoGPT** | AI repository intelligence platform offering AST-level codebase analysis and semantic chat. | [GitHub](https://github.com/jaymore4501/RepoGPT) | [Live](https://repogpt-3azy.onrender.com/) |
+| ⚡ **Ventrixa** | AI website generator converting natural language descriptions into complete, editable codebases. | [GitHub](https://github.com/jaymore4501/Ventrixa) | [Live](https://ventrixa.onrender.com/) |
+| 📝 **Notela** | Modern academic workspace with Notion-style editing, task management, and habit tracking. | [GitHub](https://github.com/jaymore4501/Notela) | [Live](https://notela-oldb.onrender.com/) |
+| 🌱 **Collabryx** | Anonymous real-time whiteboard for zero-friction team sketching and brainstorming. | [GitHub](https://github.com/jaymore4501/Collabryx) | [Live](https://collabryx-frontend.onrender.com/) |
+| 🛡️ **Nyxecure** | Lightweight cybersecurity platform providing phishing URL analysis and password diagnostics. | [GitHub](https://github.com/jaymore4501/Nyxecure) | [Live](https://nyxecure-frontend.onrender.com/) |
 
 ---
 
